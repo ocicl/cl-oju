@@ -2,9 +2,8 @@
 
 Some Clojure-ish thingies for Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/eigenhombre/cl-oju.git   |
-| commit  | 38e90f9  |
-| systems | cl-oju |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/eigenhombre/cl-oju.git |
+| commit  | bc67f51                                       |
+| systems | cl-oju                                        |
+|---------+-----------------------------------------------|
