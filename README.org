@@ -4,6 +4,6 @@ Some Clojure-ish thingies for Common Lisp
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/eigenhombre/cl-oju.git |
-| commit  | bc67f51                                       |
+| commit  | 02f1e7f                                       |
 | systems | cl-oju                                        |
 |---------+-----------------------------------------------|
